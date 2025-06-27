@@ -2,7 +2,7 @@
 
 SkillScan Navigator is a web-based platform that allows users to assess their skills for specific tech roles (e.g., Data Engineer, UI/UX Designer). It uses AI to conduct a 10–15 minute interactive assessment, identifies skill gaps, and provides personalized learning recommendations — all powered by free-tier tools.
 
-🚀 Live Demo (coming soon)
+🚀 Live Demo (coming soon...)
 
 ---
 
